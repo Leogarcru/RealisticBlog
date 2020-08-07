@@ -5,3 +5,5 @@ Leobardo Manuel Garcia Cruz
 75 kg
 oriundo: orizaba veracruz mexico
 ingeniero en mecatronica
+
+estudiante de platzi master
