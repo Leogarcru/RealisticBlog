@@ -25,3 +25,14 @@ h1{
     margin: 0;
     padding: 0.5em;
 }
+
+#parrafos{
+    width: 70%;
+    margin: 20 auto;
+    background: whitesmoke;
+    text-align: left;
+    border: 1px solid #DDD;
+    font-family: "courier";
+    color: darkred;
+    padding: 2em;
+}
