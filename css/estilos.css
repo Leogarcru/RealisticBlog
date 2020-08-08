@@ -9,6 +9,7 @@ h1{
 }
 
 #container{
+    border-radius: 2em;
     width: 70%; 
     padding: 0em 0em 0em 2em;
     text-align: left;
@@ -27,6 +28,7 @@ h1{
 }
 
 #parrafos{
+    border-radius: 1em;
     width: 70%;
     margin: 20 auto;
     background: whitesmoke;
