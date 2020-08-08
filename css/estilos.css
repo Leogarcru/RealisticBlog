@@ -58,3 +58,13 @@ h1{
     color: darkred;
     padding: 1em;
 }
+
+#footer{
+    margin: 20 auto;
+    width: 45%;
+    text-align: center;
+    background: seashell;
+    font-weight: 30;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: sienna;
+}
