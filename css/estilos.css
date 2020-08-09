@@ -59,6 +59,10 @@ h1{
     padding: 1em;
 }
 
+#spidy{
+    text-align: center;
+}
+
 #footer{
     margin: 20 auto;
     width: 45%;
