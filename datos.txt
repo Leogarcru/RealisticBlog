@@ -10,5 +10,10 @@ estudiante de platzi master
 
 master 2 modificacion 4
 Experimento 1
+<<<<<<< HEAD
+=======
+
+Experimento 2
+>>>>>>> 1ffa1b9... todo
 
 MAster 1 modificacion 1
