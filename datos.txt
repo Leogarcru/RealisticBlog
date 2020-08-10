@@ -8,12 +8,7 @@ ingeniero en mecatronica
 
 estudiante de platzi master
 
-<<<<<<< HEAD
 master 2 modificacion 4
-=======
 Experimento 1
->>>>>>> e95a438... exp1
-
-Experimento 2
 
 MAster 1 modificacion 1
